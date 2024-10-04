@@ -6,7 +6,6 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
         //Declare variables
-        System.out.println("Hello world!");
         final int baseSalary = 1250;
         final int extraHoursBase = 15;
         final int extraHoursMoreThan5 = 12;
